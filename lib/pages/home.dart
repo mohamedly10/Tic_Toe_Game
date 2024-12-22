@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:x_o_game/Entity/player.dart';
+import 'package:x_o_game/Entity/Game.dart';
 import 'package:x_o_game/core/constant/constant.dart';
 
 class HomePage extends StatefulWidget {
